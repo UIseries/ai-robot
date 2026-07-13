@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Rockchip%20RK3506-orange?style=flat-square" alt="platform">
   <img src="https://img.shields.io/badge/language-C11-5555ff?style=flat-square" alt="language">
@@ -421,3 +422,7 @@ Every module returns `0` on success and negative `ErrorCode` on failure. The sta
 <p align="center">
   <sub>Built with ❤️ for the embedded Linux community</sub>
 </p>
+=======
+# ai-robot
+RK3506 Voice Robot An embedded AI voice assistant running on the Rockchip RK3506 development board. Pure C, single-threaded event loop, zero dynamic memory allocation.
+>>>>>>> 33334bbbfbdf258c17264f132e553142d668b8d3

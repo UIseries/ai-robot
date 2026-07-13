@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build output
 build/
 cmake-build-*/
@@ -33,3 +34,28 @@ resources/NotoSansSC-Regular.ttf
 
 # Dependencies installed locally
 libs/cJSON/build/
+=======
+### AL ###
+#Template for AL projects for Dynamics 365 Business Central
+#launch.json folder
+.vscode/
+#Cache folder
+.alcache/
+#Symbols folder
+.alpackages/
+#Snapshots folder
+.snapshots/
+#Testing Output folder
+.output/
+#Extension App-file
+*.app
+#Rapid Application Development File
+rad.json
+#Translation Base-file
+*.g.xlf
+#License-files
+*.bclicense
+*.flf
+#Test results file
+TestResults.xml
+>>>>>>> 33334bbbfbdf258c17264f132e553142d668b8d3
